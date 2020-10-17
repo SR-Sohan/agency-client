@@ -1,0 +1,21 @@
+.upload-info input{
+    width: 450px;
+    height: 40px;
+    outline: none;
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    box-sizing: border-box;
+    border-radius: 3.33333px;
+}
+.upload-info textarea{
+    border: 1px solid gray;
+    width: 450px;
+}
+.upload-img input{
+    width: 173px;
+    height: 40px;
+    background: #DEFFED;
+    border: 1px solid #009444;
+    box-sizing: border-box;
+    border-radius: 5px;
+}

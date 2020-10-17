@@ -1,0 +1,27 @@
+
+.nav-item a{
+    color: #474747;
+    font-weight: 600;
+    transition: .4s;
+    border-bottom: 2px solid transparent;
+}
+.nav-item a:hover{
+    color: black;
+    border-bottom: 2px solid green;
+    font-weight: 600;
+}
+.login-style {
+    color: white !important;
+    background-color: #111430;
+    width: 134px;
+    height: 45px;
+    border-radius: 10px;
+}
+.login-style:hover{
+    border-bottom: 2px solid transparent !important;
+}
+@media only screen and (max-width: 768px) {
+    .nav-item a{
+        margin-left: 0;
+    }
+   }

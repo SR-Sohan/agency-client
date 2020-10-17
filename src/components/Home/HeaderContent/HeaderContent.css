@@ -1,0 +1,27 @@
+.header-content h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: 0.01em;
+
+    color: #111430;
+}
+.header-content p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+    letter-spacing: 0.005em;
+
+    color: #000000;
+}
+@media only screen and (max-width: 768px) {
+    .header-content h1{
+        font-size: 34px;
+    }
+  }

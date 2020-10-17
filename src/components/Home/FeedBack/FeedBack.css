@@ -1,0 +1,39 @@
+.single-feedBack{
+    border: 1px solid gray;
+    padding: 15px 20px;
+    border-radius: 10px;
+    max-width: 370px;
+}
+.single-feedBack p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.005em;
+    color: #707070;
+    margin-top: 15px;
+}
+.name-title p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+    margin: 0;
+}
+.name-title small{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+
+}
+@media only screen and (max-width: 768px) {
+    .single-feedBack{
+        margin: 15px auto;
+    }
+  }

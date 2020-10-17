@@ -1,0 +1,9 @@
+.review-area input{
+    width: 570px;
+    height: 60px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    border: none;
+    margin-bottom: 5px;
+    padding: 5px 15px;
+}

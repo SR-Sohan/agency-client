@@ -1,0 +1,48 @@
+.work-slider{
+    height: 650px;
+    background: #111430;
+}
+.slick-dots li{
+    width: 15px !important;
+    height: 15px !important;
+    background-color: #242A65 ;
+    border-radius: 50%;
+  
+}
+.slick-dots li button::before{
+    color: transparent !important;
+}
+.slick-dots .slick-active {
+    background-color: #FBD062 !important;
+}
+.slick-slide{
+    margin: 0 -10px
+}
+.single-slide img{
+    width: 465px;
+    height: 335px;
+}
+@media only screen and (max-width: 1200px) {
+    .single-slide img{
+        width: 380px;
+        height: 300px;
+    }
+   }
+@media only screen and (max-width: 991px) {
+    .single-slide img{
+        width: 300px;
+        height: 230px;
+    }
+   }
+   @media only screen and (max-width: 768px) {
+    .single-slide img{
+        width: 220px;
+        height: 170px;
+    }
+   }
+   @media only screen and (max-width: 601px) {
+    .single-slide img{
+        width: 400px;
+        height: 230px;
+    }
+   }

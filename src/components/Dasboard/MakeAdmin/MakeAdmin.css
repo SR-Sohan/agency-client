@@ -1,0 +1,22 @@
+.make-admin{
+    background: white;
+    padding: 50px 40px;
+    border-radius: 15px;
+}
+.make-admin input[type="email" ]{
+    width: 400px;
+    padding: 10px 15px;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.brand-submit{
+    padding: 10px 25px;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: #009444;
+    border-radius: 10px;
+    font-weight: 600;
+}

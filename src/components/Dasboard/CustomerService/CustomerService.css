@@ -1,0 +1,9 @@
+.service-list span{
+    width: 108px;
+    padding:10px 20px;
+    background-color: #FFE3E3;
+    text-align: center;
+    color: #FF4545;
+    border-radius: 5px;
+    
+}

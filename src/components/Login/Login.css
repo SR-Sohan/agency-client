@@ -1,0 +1,51 @@
+.logo-area{
+    width: 202.81px;
+    height: 60px;
+    left: 575px;
+    top: 44px;
+    margin: 30px auto;
+}
+.login-form{
+    width: 570px;
+    height: 257px;
+    background: #FFFFFF;
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.google-img{
+    width: 31px;
+    height: 31px;
+}
+.google-login{
+    width: 437px;
+    height: 51px;
+    padding: 5px 10px;
+    margin: 15px;
+    background: #FFFFFF;
+    border: 1px solid #C7C7C7;
+    box-sizing: border-box;
+    border-radius: 57px;
+    display: flex;
+    align-items: center ;
+    cursor: pointer;
+}
+.google-text p{
+    padding: 0px 90px;
+}
+.create-account-area p{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+.create-account-area p span{
+    color: #3F90FC;
+}

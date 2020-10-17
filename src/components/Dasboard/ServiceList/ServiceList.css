@@ -1,0 +1,9 @@
+
+td{
+    background-color: #fff;
+}
+.Dropdown-control{
+    background-color: transparent !important;
+    border: none !important;
+    outline: none;
+}
