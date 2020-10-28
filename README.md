@@ -27,4 +27,4 @@ Admin will be able to change the status of orders.</p>
     <li>HeroKu</li>
 </ul>
 
-<a href="https://creative-agency-24bfa.web.app/">Live Site</a>
+<a target="_blank" href="https://creative-agency-24bfa.web.app/">Live Site</a>
