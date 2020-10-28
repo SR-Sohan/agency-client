@@ -3,7 +3,7 @@
 
 <h2>Features</h2>
 
-<p>Fully responsive site, seo friendly,</p>
+<p>Fully responsive site, seo friendly</p>
 
 <h2>Users Features</h2>
 <p>User can order service, set a time limit, set a price and can upload an image as a sample.
